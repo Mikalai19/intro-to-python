@@ -1,6 +1,3 @@
-from multiprocessing import Array
-
-
 def odd_range(end):
     array = []
 
